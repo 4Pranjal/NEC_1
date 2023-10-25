@@ -1,0 +1,8 @@
+ALl the code are in python jyupter 
+
+All the instruction are given in the code itself. 
+
+There is no extra requirements, all the code will execute by itself
+
+The results will be going to be shown by itslef
+
